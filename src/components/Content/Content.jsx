@@ -1,6 +1,6 @@
 import './Content.css'
 import React,{useState} from 'react';
-import Poppipz from '../../database/Poppipz';
+import Poppipz from '../../database/Poppipz.json';
 import Model from '../../Model/Model';
 
 const Content = () => {
